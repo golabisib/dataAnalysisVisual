@@ -46,6 +46,8 @@
         "metapackage",
         "nbconvert",
         "nbformat",
+        "ncols",
+        "nrows",
         "ordibehesht",
         "outputarea",
         "Parens",
